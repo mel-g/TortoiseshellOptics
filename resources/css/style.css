@@ -235,7 +235,7 @@ header {
 	}
 	
 	.box {
-		width: 450px;
+		width: 440px;
 		flex-wrap: nowrap;
 		align-items: center;
 		justify-content: center;
