@@ -226,7 +226,7 @@ header {
 	/* to get gallery items into a column */
 	
 	.container {
-		max-width: 450px;
+		max-width: 480px;
 	}
 	
 	.gallery {
@@ -236,7 +236,7 @@ header {
 	
 	.box {
 		width: 440px;
-		flex-wrap: nowrap;
+		flex-wrap: wrap;
 		align-items: center;
 		justify-content: center;
 	}
