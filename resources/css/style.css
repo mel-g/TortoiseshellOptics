@@ -226,7 +226,7 @@ header {
 	/* to get gallery items into a column */
 	
 	.container {
-		max-width: 480px;
+		width: 470px;
 	}
 	
 	.gallery {
